@@ -1,0 +1,35 @@
+li {
+    /* float: left; */
+    /* cursor: pointer; */
+    font-size: 25px;
+    list-style-type: none;
+}
+
+/* span {
+    margin: 1rem;
+} */
+
+/* li label li input { */
+
+/* vertical-align: middle; */
+
+/* margin-right: 6px; */
+
+/* position: relative; */
+
+/* top: -1px; */
+
+/* } */
+
+li button {
+    float: right;
+    /* display: none; */
+}
+
+li:before {
+    content: initial;
+}
+
+li:last-child {
+    border-bottom: none;
+}
